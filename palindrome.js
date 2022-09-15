@@ -3,7 +3,7 @@ let str = "Racecar"
 let bag = "";
 let gunny = "";
 
-for (i = 0; i > str.length; i++) {
+for (i = 0; i < str.length; i++) {
   gunny = gunny + str[i];
 }
 
